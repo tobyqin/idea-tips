@@ -76,6 +76,13 @@ Reference:
 Reference:
 1. https://www.jetbrains.com/idea/guide/tips/live-templates/
 
+## Generate Code
+
+1. Generate properties 
+2. Generate constructor
+3. Generate tests
+4. Generate functions 
+
 ## Refactoring 
 
 Reference:
