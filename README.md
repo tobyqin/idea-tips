@@ -2,7 +2,8 @@
 
 Tips to practice IDEA.
 
-The official guide: https://www.jetbrains.com/idea/guide/tips/
+1. The official guide: https://www.jetbrains.com/idea/guide/tips/
+2. Bilibili video: https://space.bilibili.com/193580090/channel/collectiondetail?sid=3997
 
 ## Create command line launcher
 
@@ -24,7 +25,12 @@ idea my-project
 Reference:
 1. https://stackoverflow.com/questions/46351096/create-command-line-launcher-intellij-not-found
 
-## Enable mouse zoom
+## Productive Configurations 
+
+1. Show toolbar
+2. Enable mouse zoom
+3. Ignore case sensitive in code completion 
+4. Import on fly
 
 Reference: 
 1. https://www.jetbrains.com/idea/guide/tips/mouse-zoom/
@@ -72,4 +78,6 @@ Reference:
 
 Reference:
 1. https://www.jetbrains.com/idea/guide/tips/find-select-multiple-occurrences/
-2. 
+
+## Debugging 
+
