@@ -33,7 +33,8 @@ Reference:
 4. Import on fly
 
 Reference: 
-1. https://www.jetbrains.com/idea/guide/tips/mouse-zoom/
+1. https://www.bilibili.com/video/BV1664y1U73u/
+2. https://www.jetbrains.com/idea/guide/tips/mouse-zoom/
 
 ## Useful shortcuts
 
@@ -55,8 +56,9 @@ Ctrl + Alt + Right
 Plugin worth to try: https://plugins.jetbrains.com/plugin/9792-key-promoter-x
 
 Reference:
-1. https://blog.jetbrains.com/idea/2020/03/top-15-intellij-idea-shortcuts/
-2. https://www.jetbrains.com/idea/guide/tips/assign-top-shortcuts/
+1. https://www.bilibili.com/video/BV1dL411E7Qg/
+2. https://blog.jetbrains.com/idea/2020/03/top-15-intellij-idea-shortcuts/
+3. https://www.jetbrains.com/idea/guide/tips/assign-top-shortcuts/
 
 
 ## Code completion
