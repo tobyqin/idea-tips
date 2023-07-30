@@ -109,5 +109,10 @@ Reference:
 
 1. https://www.jetbrains.com/idea/guide/tips/find-select-multiple-occurrences/
 
-## Debugging 
+## Debugging
+
+1. Conditional breakpoints
+2. Evaluate expression
+3. Evaluate code fragment
+4. Smart step into
 
